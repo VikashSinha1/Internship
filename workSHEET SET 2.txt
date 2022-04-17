@@ -1,0 +1,54 @@
+machine learning
+1-(2)only clustering
+2-(2)classification
+3-(b)false
+4=(2)removal of outliers
+5-(1)1
+6(a)yes
+7(c)cant say
+8
+9(a)k-means 
+10-(1)creating different models
+11-(a)
+12-yes,it is
+13-because it is more effecient and reliable
+14-no
+
+
+
+SQL
+1-(D)unique
+2-(c)null
+3-(a)
+4-(a)no dublicate entries
+5-(b)foreign key
+6-(2)
+7-(c)one to one
+8-(b)many to one
+9-(b)supplier id
+10-(2)2
+11-(d)many to many
+12-(d)none of them
+13(a)insert into
+14-(b,c)check,unique
+15-(d)
+
+
+statistics
+1(a)SD
+2(c)12
+3-(b)measure of variablity
+4-(b)mutually exclusive
+5-(d)all of the above
+6-(b)data set
+7-(a)2or more
+8-(c)bar graph
+9-(b)data analysis
+10-(a)z score
+11-(C)MEAN
+12-(D)400005.2
+13-(A)RANGE
+14-(A)DESCRIPTIVE AND INFERENCS
+15-(D)H-L
+
+
